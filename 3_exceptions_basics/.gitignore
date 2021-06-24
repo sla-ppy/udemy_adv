@@ -1,0 +1,3 @@
+# Project exclude paths
+/3_exceptions_basics/cmake-build-debug/
+.idea
