@@ -5,7 +5,7 @@
 
 
 ## Demo:
-<img src="https://github.com/sla-ppy/udemy_adv/3_exceptions_basics/blob/master/img/exceptions_basics.png" alt="exceptions_basics.png">
+<img src="https://github.com/sla-ppy/udemy_adv/blob/master/3_exceptions_basics/img/excetions_basics.png" alt="exceptions_basics.png">
 <br>
 <br>
 
