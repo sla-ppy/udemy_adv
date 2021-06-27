@@ -9,7 +9,7 @@
 
 ## Demo:
 ### TODO: Insert folder view of project when finished!
-<img src="https://github.com/sla-ppy/udemy_adv/3_exceptions_basics/blob/master/img/nodemo.png" alt="nodemo.png">
+<img src="https://github.com/sla-ppy/sla-ppy/blob/master/nodemo.png" alt="nodemo.png">
 <br>
 <br>
 
