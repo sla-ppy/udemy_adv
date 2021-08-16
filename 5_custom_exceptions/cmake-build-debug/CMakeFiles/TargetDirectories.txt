@@ -1,3 +1,0 @@
-/home/sla-ppy/myFolder/repos/CLionProjects/5_custom_exceptions/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sla-ppy/myFolder/repos/CLionProjects/5_custom_exceptions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/sla-ppy/myFolder/repos/CLionProjects/5_custom_exceptions/cmake-build-debug/CMakeFiles/5_custom_exceptions.dir
