@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/6_exception_catching_order.dir/main.cpp.o -o 6_exception_catching_order 

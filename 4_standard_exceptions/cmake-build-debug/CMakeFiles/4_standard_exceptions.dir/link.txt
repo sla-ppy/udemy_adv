@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -Wpedantic -lpanel -g CMakeFiles/4_standard_exceptions.dir/main.cpp.o -o 4_standard_exceptions 
