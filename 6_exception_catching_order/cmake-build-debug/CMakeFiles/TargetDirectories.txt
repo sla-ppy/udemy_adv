@@ -1,3 +1,0 @@
-/home/sla-ppy/myFolder/repos/CLionProjects/6_exception_catching_order/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/sla-ppy/myFolder/repos/CLionProjects/6_exception_catching_order/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sla-ppy/myFolder/repos/CLionProjects/6_exception_catching_order/cmake-build-debug/CMakeFiles/6_exception_catching_order.dir
