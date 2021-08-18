@@ -1,0 +1,3 @@
+/home/sla-ppy/myFolder/repos/CLionProjects/13_vectors_and_memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sla-ppy/myFolder/repos/CLionProjects/13_vectors_and_memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sla-ppy/myFolder/repos/CLionProjects/13_vectors_and_memory/cmake-build-debug/CMakeFiles/13_vectors_and_memory.dir

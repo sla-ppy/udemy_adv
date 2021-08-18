@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/13_vectors_and_memory.dir/main.cpp.o -o 13_vectors_and_memory 

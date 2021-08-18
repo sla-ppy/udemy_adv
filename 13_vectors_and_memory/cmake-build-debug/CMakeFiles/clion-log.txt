@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/sla-ppy/myFolder/repos/CLionProjects/13_vectors_and_memory
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sla-ppy/myFolder/repos/CLionProjects/13_vectors_and_memory/cmake-build-debug
