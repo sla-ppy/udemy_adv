@@ -1,0 +1,3 @@
+/home/sla-ppy/myFolder/repos/CLionProjects/15_lists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sla-ppy/myFolder/repos/CLionProjects/15_lists/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sla-ppy/myFolder/repos/CLionProjects/15_lists/cmake-build-debug/CMakeFiles/15_lists.dir
