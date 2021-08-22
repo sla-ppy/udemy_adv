@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic -lpanel -g CMakeFiles/3_exceptions_basics.dir/main.cpp.o -o 3_exceptions_basics 
