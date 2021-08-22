@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sla-ppy/myFolder/repos/CLionProjects/21_stacks_and_queues/main.cpp
+iostream
+-
+stack
+-
+queue
+-
+
