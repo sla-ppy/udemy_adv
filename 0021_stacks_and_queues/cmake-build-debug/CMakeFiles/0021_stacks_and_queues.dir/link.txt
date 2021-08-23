@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/0021_stacks_and_queues.dir/main.cpp.o -o 0021_stacks_and_queues 

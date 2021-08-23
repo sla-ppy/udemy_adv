@@ -1,4 +1,4 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend
 -- The C compiler identification is GNU 11.1.0
 -- The CXX compiler identification is GNU 11.1.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/cmake-build-debug
+-- Build files have been written to: /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend/cmake-build-debug

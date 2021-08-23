@@ -122,5 +122,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/0021_stacks_and_queues.dir/DependInfo.cmake"
+  "CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/DependInfo.cmake"
   )

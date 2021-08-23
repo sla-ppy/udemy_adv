@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues
+CMAKE_SOURCE_DIR = /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/cmake-build-debug
+CMAKE_BINARY_DIR = /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/cmake-build-debug/CMakeFiles /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend/cmake-build-debug/CMakeFiles /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -117,24 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 0021_stacks_and_queues
+# Target rules for targets named 0022_sorting_vectors_deque_and_friend
 
 # Build rule for target.
-0021_stacks_and_queues: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0021_stacks_and_queues
-.PHONY : 0021_stacks_and_queues
+0022_sorting_vectors_deque_and_friend: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0022_sorting_vectors_deque_and_friend
+.PHONY : 0022_sorting_vectors_deque_and_friend
 
 # fast build rule for target.
-0021_stacks_and_queues/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0021_stacks_and_queues.dir/build.make CMakeFiles/0021_stacks_and_queues.dir/build
-.PHONY : 0021_stacks_and_queues/fast
+0022_sorting_vectors_deque_and_friend/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/build.make CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/build
+.PHONY : 0022_sorting_vectors_deque_and_friend/fast
 
 main.o: main.cpp.o
 .PHONY : main.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0021_stacks_and_queues.dir/build.make CMakeFiles/0021_stacks_and_queues.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/build.make CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -142,7 +142,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0021_stacks_and_queues.dir/build.make CMakeFiles/0021_stacks_and_queues.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/build.make CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -150,7 +150,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0021_stacks_and_queues.dir/build.make CMakeFiles/0021_stacks_and_queues.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/build.make CMakeFiles/0022_sorting_vectors_deque_and_friend.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -161,7 +161,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... 0021_stacks_and_queues"
+	@echo "... 0022_sorting_vectors_deque_and_friend"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

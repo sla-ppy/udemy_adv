@@ -1,4 +1,4 @@
-# Install script for directory: /home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues
+# Install script for directory: /home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

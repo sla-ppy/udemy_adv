@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/sla-ppy/myFolder/repos/CLionProjects/21_stacks_and_queues/main.cpp" "/home/sla-ppy/myFolder/repos/CLionProjects/21_stacks_and_queues/cmake-build-debug/CMakeFiles/21_stacks_and_queues.dir/main.cpp.o"
+  "/home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/main.cpp" "/home/sla-ppy/myFolder/repos/CLionProjects/udemy_adv/0021_stacks_and_queues/cmake-build-debug/CMakeFiles/0021_stacks_and_queues.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

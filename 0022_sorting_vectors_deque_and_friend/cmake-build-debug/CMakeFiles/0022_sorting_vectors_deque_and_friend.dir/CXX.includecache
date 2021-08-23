@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/sla-ppy/myFolder/repos/CLionProjects/21_stacks_and_queues/main.cpp
+/home/sla-ppy/myFolder/repos/CLionProjects/0022_sorting_vectors_deque_and_friend/main.cpp
 iostream
 -
-stack
--
-queue
+vector
 -
 

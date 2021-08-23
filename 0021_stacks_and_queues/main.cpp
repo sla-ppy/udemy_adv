@@ -40,7 +40,7 @@ int main() {
 
     // iterating through the stack - removing objects
    while(testStack.size() > 0) {
-       Test &test = testStack.top(); // first one we added, is at the top of the stack
+       Test &test = testStack.top();
        test.print();
        testStack.pop(); // when we pop, the one we added before that gets to the top
        // and when we pop that we get the one we added first
@@ -55,7 +55,7 @@ int main() {
    // first person who enters the queue, first person who leaves the queue
    std::queue<Test> testQueue;
 
-   testQueue.push(Test("Mike")); // when we add objects, we destroy the original and we create a shallow copy of it
+   testQueue.push(Test("Mike"));
    testQueue.push(Test("John"));
    testQueue.push(Test("Sue"));
 
