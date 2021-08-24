@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/0025_printing_overloading_left_bit_shift.dir/main.cpp.o -o 0025_printing_overloading_left_bit_shift 

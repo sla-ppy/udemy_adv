@@ -1,0 +1,3 @@
+/home/sla-ppy/myFolder/repos/CLionProjects/0025_printing_overloading_left_bit_shift/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sla-ppy/myFolder/repos/CLionProjects/0025_printing_overloading_left_bit_shift/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sla-ppy/myFolder/repos/CLionProjects/0025_printing_overloading_left_bit_shift/cmake-build-debug/CMakeFiles/0025_printing_overloading_left_bit_shift.dir
