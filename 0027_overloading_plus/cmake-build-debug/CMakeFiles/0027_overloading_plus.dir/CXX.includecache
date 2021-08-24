@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sla-ppy/myFolder/repos/CLionProjects/0027_overloading_plus/Complex.h
+iostream
+-
+
+/home/sla-ppy/myFolder/repos/CLionProjects/0027_overloading_plus/main.cpp
+iostream
+-
+Complex.h
+/home/sla-ppy/myFolder/repos/CLionProjects/0027_overloading_plus/Complex.h
+
