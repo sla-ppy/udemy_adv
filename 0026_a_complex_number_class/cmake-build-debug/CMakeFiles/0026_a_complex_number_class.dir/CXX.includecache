@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sla-ppy/myFolder/repos/CLionProjects/0026_a_complex_number_class/Complex.h
+iostream
+-
+
+/home/sla-ppy/myFolder/repos/CLionProjects/0026_a_complex_number_class/main.cpp
+iostream
+-
+Complex.h
+/home/sla-ppy/myFolder/repos/CLionProjects/0026_a_complex_number_class/Complex.h
+
