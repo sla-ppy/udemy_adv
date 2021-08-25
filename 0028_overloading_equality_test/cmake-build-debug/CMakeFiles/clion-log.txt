@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/sla-ppy/myFolder/repos/CLionProjects/0028_overloading_equality_test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sla-ppy/myFolder/repos/CLionProjects/0028_overloading_equality_test/cmake-build-debug
