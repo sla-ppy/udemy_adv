@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/0030_template_an_important_note.dir/main.cpp.o -o 0030_template_an_important_note 
