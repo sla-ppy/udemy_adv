@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/sla-ppy/myFolder/repos/CLionProjects/0029_overloading_the_dereference_operator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sla-ppy/myFolder/repos/CLionProjects/0029_overloading_the_dereference_operator/cmake-build-debug

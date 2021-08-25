@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sla-ppy/myFolder/repos/CLionProjects/0029_overloading_the_dereference_operator/Complex.h
+iostream
+-
+
+/home/sla-ppy/myFolder/repos/CLionProjects/0029_overloading_the_dereference_operator/main.cpp
+iostream
+-
+Complex.h
+/home/sla-ppy/myFolder/repos/CLionProjects/0029_overloading_the_dereference_operator/Complex.h
+
