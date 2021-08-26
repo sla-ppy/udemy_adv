@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/0031_template_classes.dir/main.cpp.o -o 0031_template_classes 
